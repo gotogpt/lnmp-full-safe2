@@ -29,8 +29,11 @@ PS:由于MySQL/MariaDB二进制包巨大，完整版不包含二进制包，离�
 
 | Version                | File Size | MD5                              |  Source|Download Link|
 |------------------------|-----------|----------------------------------| ------|-------|
-| lnmp2.0-full.tar.gz(理论上此版本安全,网站下方未变更主体) |1.2GB |ada53925291dc448b70f19de8f92880c|[webarchive20230831](https://web.archive.org/web/20230831000930/https://lnmp.org/download.html)|[Link](https://github.com/gotogpt/lnmp-full-safe2/releases/download/publish/lnmp2.0-full.tar.gz)|
-(https://web.archive.org/web/20230831000930/https://lnmp.org/download.html)|[Link](https://github.com/gotogpt/lnmp-full-safe2/releases/download/publish/lnmp1.9-full.tar.gz
+| lnmp2.0-full.tar.gz(理论上此版本安全,网站下方未变更主体) |1.2GB |ada53925291dc448b70f19de8f92880c|[webarchive20230831](https://web.archive.org/web/20230831000930/https://lnmp.org/download.html)|[Link]
+
+https://github.com/gotogpt/lnmp-full-safe2/releases/download/111/lnmp2.0-full.tar.gz
+https://github.com/gotogpt/lnmp-full-safe2/releases/download/111/lnmp1.9-full.tar.gz
+
 
 | lnmp1.9-full-v2.tar.gz（理论上v1 v2均安全，网站下方未变更主体） | 1GB|8486d50dc908dda7ada559834c0064b8|[webarchive20230831](https://web.archive.org/web/20230831000930/https://lnmp.org/download.html)|[Link](https://github.com/jwsky/lnmp-full-safe/releases/download/publish/lnmp1.9-full-v2.tar.gz)|
 | lnmp1.9-full-v1.tar.gz（理论上v1 v2均安全，网站下方未变更主体） | 1GB|09020777f9ce981a01b1fdd229f6f427|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|[Link](https://github.com/jwsky/lnmp-full-safe/releases/download/publish/lnmp1.9-full-v1.tar.gz)|
